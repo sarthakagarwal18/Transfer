@@ -13,6 +13,13 @@ http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
 https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/Semantic-Technologies/paper/Ludwig_TIR_2011.pdf
 http://www.aclweb.org/anthology/W09-2208
 
+Michael Collins
+https://github.com/pz325/Coursera_NLP_MC
+https://github.com/crevoisiersabine/Natural-Language-Processing-Columbia-University
+https://github.com/mwunderlich/NLP_Class_Michael_Collins_complete
+https://github.com/mennanov/nlp-coursera
+https://github.com/cmf/nlp-columbia
+
 Misc
 https://blog.booking.com/named-entity-classification.html
 https://sambitach.wordpress.com/2016/01/26/3-ways-to-perform-named-entity-recognition-in-python/
