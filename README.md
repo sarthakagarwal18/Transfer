@@ -14,6 +14,7 @@ https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/Semantic-Technologies/pa
 http://www.aclweb.org/anthology/W09-2208
 
 Michael Collins
+http://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf
 https://github.com/pz325/Coursera_NLP_MC
 https://github.com/crevoisiersabine/Natural-Language-Processing-Columbia-University
 https://github.com/mwunderlich/NLP_Class_Michael_Collins_complete
