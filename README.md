@@ -14,6 +14,11 @@ https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/Semantic-Technologies/pa
 http://www.aclweb.org/anthology/W09-2208
 https://pdfs.semanticscholar.org/9528/4b31f27b9b8901fdc18554603610ebbc2752.pdf
 
+Approach
+https://pdfs.semanticscholar.org/9528/4b31f27b9b8901fdc18554603610ebbc2752.pdf
+http://wireilla.com/papers/ijcsa/V3N1/3113ijcsa01.pdf
+http://airccse.org/journal/ijnlc/papers/2313ijnlc06.pdf
+
 Michael Collins
 http://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf
 https://github.com/pz325/Coursera_NLP_MC
