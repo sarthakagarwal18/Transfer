@@ -14,8 +14,14 @@ https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/Semantic-Technologies/pa
 http://www.aclweb.org/anthology/W09-2208
 https://pdfs.semanticscholar.org/9528/4b31f27b9b8901fdc18554603610ebbc2752.pdf
 
+-------
+http://nlpforhackers.io/named-entity-extraction/
+-------
+
 Corpus
 https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus#_=_
+http://www.cnts.ua.ac.be/conll2003/ner/
+http://www.cnts.ua.ac.be/conll2002/ner/
 
 Approach
 https://pdfs.semanticscholar.org/9528/4b31f27b9b8901fdc18554603610ebbc2752.pdf
