@@ -12,6 +12,7 @@ Papers
 http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
 https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/Semantic-Technologies/paper/Ludwig_TIR_2011.pdf
 http://www.aclweb.org/anthology/W09-2208
+https://pdfs.semanticscholar.org/9528/4b31f27b9b8901fdc18554603610ebbc2752.pdf
 
 Michael Collins
 http://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf
