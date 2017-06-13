@@ -9,6 +9,7 @@ https://github.com/ahmed-touati/DeepNLP
 https://github.com/avgurf/NLP_HW2
 
 Papers
+https://web.stanford.edu/~jurafsky/slp3/9.pdf
 http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
 https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/Semantic-Technologies/paper/Ludwig_TIR_2011.pdf
 http://www.aclweb.org/anthology/W09-2208
