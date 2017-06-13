@@ -25,6 +25,7 @@ http://www.cs.cmu.edu/~tom/10601_fall2012/hw/hw5sol.pdf
 
 -------
 http://nlpforhackers.io/named-entity-extraction/
+http://nlpforhackers.io/training-ner-large-dataset/
 SEE NLTK BOOK CHPTR 6,7 TOO
 -------
 
