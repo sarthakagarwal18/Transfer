@@ -25,6 +25,7 @@ http://www.cs.cmu.edu/~tom/10601_fall2012/hw/hw5sol.pdf
 
 -------
 http://nlpforhackers.io/named-entity-extraction/
+SEE NLTK BOOK CHPTR 6,7 TOO
 -------
 
 Corpus
