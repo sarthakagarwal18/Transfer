@@ -1,3 +1,9 @@
+http://www.shokhirev.com/nikolai/abc/alg/hmm/hmm.html
+http://www.stat.illinois.edu/courses/stat530/bioinfonotes/STAT530lecture13HMM.pdf
+http://www.cogsci.ucsd.edu/~ajyu/Teaching/Tutorials/hmm.pdf
+http://idiom.ucsd.edu/~rlevy/teaching/winter2009/ligncse256/lectures/hmm_viterbi_mini_example.pdf
+https://jyyuan.wordpress.com/2014/01/22/viterbi-algorithm-finding-most-likely-sequence-in-hmm/
+
 Tutorial HMM
 https://www.youtube.com/watch?v=kHvoHUGUitQ&index=1&list=PLO9y7hOkmmSGSJA8S3gTigcyNDVJ31LLt
 
@@ -9,6 +15,7 @@ https://github.com/ahmed-touati/DeepNLP
 https://github.com/avgurf/NLP_HW2
 
 Papers
+http://www.dcs.fmph.uniba.sk/diplomovky/obhajene/getfile.php/main.pdf?id=143&fid=289&type=application%2Fpdf
 https://web.stanford.edu/~jurafsky/slp3/9.pdf
 http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
 https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/Semantic-Technologies/paper/Ludwig_TIR_2011.pdf
