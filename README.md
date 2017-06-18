@@ -1,3 +1,7 @@
+http://thinknook.com/two-dimensional-python-matrix-data-structure-with-string-indices-2013-01-17/
+https://stackoverflow.com/questions/14383333/python-2-dimension-array-matrix-with-string-indices
+
+
 http://www.shokhirev.com/nikolai/abc/alg/hmm/hmm.html
 http://www.stat.illinois.edu/courses/stat530/bioinfonotes/STAT530lecture13HMM.pdf
 http://www.cogsci.ucsd.edu/~ajyu/Teaching/Tutorials/hmm.pdf
