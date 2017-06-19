@@ -60,7 +60,3 @@ https://blog.booking.com/named-entity-classification.html
 https://sambitach.wordpress.com/2016/01/26/3-ways-to-perform-named-entity-recognition-in-python/
 https://www.cs.bgu.ac.il/~elhadad/nlp17/hw2.html
 
-http://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html
-
-http://taku910.github.io/crfpp/
-CRF++ is a simple, customizable, and open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data. CRF++ is designed for generic purpose and will be applied to a variety of NLP tasks, such as Named Entity Recognition, Information Extraction and Text Chunking.
