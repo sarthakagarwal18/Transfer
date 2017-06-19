@@ -1,5 +1,7 @@
-http://thinknook.com/two-dimensional-python-matrix-data-structure-with-string-indices-2013-01-17/
-https://stackoverflow.com/questions/14383333/python-2-dimension-array-matrix-with-string-indices
+REAL FEEL
+http://julianalouback.com/tech/2016/01/10/nlp-viterbi-named-entity-tagger/
+https://github.com/JLouback/nlp-viterbi
+http://web.mit.edu/6.863/www/fall2012/labs/assignment4.pdf
 
 
 http://www.shokhirev.com/nikolai/abc/alg/hmm/hmm.html
