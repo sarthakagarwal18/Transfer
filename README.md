@@ -2,6 +2,7 @@ REAL FEEL
 http://julianalouback.com/tech/2016/01/10/nlp-viterbi-named-entity-tagger/
 https://github.com/JLouback/nlp-viterbi
 http://web.mit.edu/6.863/www/fall2012/labs/assignment4.pdf
+https://github.com/salmanahmad/6.863/tree/master/Labs/Assignment4
 
 
 http://www.shokhirev.com/nikolai/abc/alg/hmm/hmm.html
