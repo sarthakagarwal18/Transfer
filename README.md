@@ -1,3 +1,5 @@
+http://www.eazynotes.com/pages/operating-system/operating-system-slides.html
+
 REAL FEEL
 http://julianalouback.com/tech/2016/01/10/nlp-viterbi-named-entity-tagger/
 https://github.com/JLouback/nlp-viterbi
